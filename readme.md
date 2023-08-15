@@ -2,7 +2,7 @@
 <img src=".github/Capa.png" alt="Demonstração do Projeto" width="100%" />
 </p>
 ## 🖥️ Projeto 
-Esse é um projeto Web Responsivo de uma cápsula do tempo para exibir memórias em umalinha do tempo.
+Esse é um projeto Web Responsivo de uma cápsula do tempo para exibir memórias em uma linha do tempo.
 
 ## 🚀 Tecnologias
 

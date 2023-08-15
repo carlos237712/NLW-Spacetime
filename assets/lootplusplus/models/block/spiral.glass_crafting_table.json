@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "lootplusplus:blocks/spiral.glass_crafting_table_front",
+        "down": "blocks/glass",
+        "up": "lootplusplus:blocks/spiral.glass_crafting_table_top",
+        "north": "lootplusplus:blocks/spiral.glass_crafting_table_front",
+        "east": "lootplusplus:blocks/spiral.glass_crafting_table_side",
+        "south": "lootplusplus:blocks/spiral.glass_crafting_table_side",
+        "west": "lootplusplus:blocks/spiral.glass_crafting_table_front"
+    }
+}

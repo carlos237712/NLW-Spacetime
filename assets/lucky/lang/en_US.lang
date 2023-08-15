@@ -1,0 +1,18 @@
+tile.luckyBlockSpiral.name=Spiral Lucky Block
+
+item.spiralLuckySword.name=Spiral Sword
+item.spiralLuckyBow.name=Spiral Triple Longbow
+item.spiralLuckyPotion.name=Spiral Lucky Potion
+
+structure.luckyTower.name=Lucky Tower
+structure.spiralDungeon.name=Spiral Dungeon
+structure.dragonDungeon.name=Red Dragon Dungeon
+structure.slimeCastle.name=Slime King's Castle
+structure.slimeCastle.victory=Victory!
+
+potion.potency.4=V
+potion.potency.19=XX
+potion.potency.79=80
+enchantment.level.20=XX
+enchantment.level.100=100
+

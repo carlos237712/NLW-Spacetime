@@ -1,0 +1,79 @@
+{
+    "textures": {
+        "main": "lootplusplus:items/spiral.magenta_masher"
+    },
+    "display": {
+        "thirdperson": {
+            "rotation": [ 0, 90, 250 ],
+            "translation": [ 0, -3, -12 ],
+            "scale": [ 2, 2, 2 ]
+        },
+        "firstperson": {
+            "rotation": [ 0, 45, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 2, 2, 2 ]
+        }
+    },
+    "elements": [
+        {
+            "from": [ 7.5, -7.1, 7.5 ],
+            "to": [ 8.5, 31.9, 8.5 ],
+            "faces": {
+                "up":   { "uv": [ 5.5, 6, 10.5, 10.5 ], "texture": "#main" },
+                "down":   { "uv": [ 0, 0.1, 5.5, 0.4  ], "texture": "#main" },
+                "north":   { "uv": [ 0, 0.1, 5.5, 0.4  ], "texture": "#main" },
+                "south":   { "uv": [ 0, 0.1, 5.5, 0.4  ], "texture": "#main" },
+                "east":   { "uv": [ 0, 0.1, 5.5, 0.4  ], "texture": "#main" },
+                "west":   { "uv": [ 0, 0.1, 5.5, 0.4  ], "texture": "#main" }
+            }
+        },
+        {
+            "from": [ 7, -7, 7 ],
+            "to": [ 9, -9, 9 ],
+            "faces": {
+                "up":   { "uv": [ 5.5, 6, 10.5, 10.5 ], "texture": "#main" },
+                "down":   { "uv": [ 5.5, 6, 10.5, 10.5  ], "texture": "#main" },
+                "north":   { "uv": [ 5.5, 6, 10.5, 10.5  ], "texture": "#main" },
+                "south":   { "uv": [ 5.5, 6, 10.5, 10.5  ], "texture": "#main" },
+                "east":   { "uv": [ 5.5, 6, 10.5, 10.5  ], "texture": "#main" },
+                "west":   { "uv": [ 5.5, 6, 10.5, 10.5  ], "texture": "#main" }
+            }
+        },
+        {
+            "from": [ -4, 24, 4 ],
+            "to": [ 20, 30.9, 12 ],
+            "faces": {
+                "up":   { "uv": [ 7, 0.1, 16, 0.4 ], "texture": "#main", "rotation":90 },
+                "down":   { "uv": [ 7, 0.1, 16, 0.4  ], "texture": "#main", "rotation":90 },
+                "north":   { "uv": [ 7, 0.1, 16, 0.4  ], "texture": "#main", "rotation":90 },
+                "south":   { "uv": [ 7, 0.1, 16, 0.4  ], "texture": "#main", "rotation":270 },
+                "east":   { "uv": [ 7, 0.1, 16, 0.4  ], "texture": "#main", "rotation":90 },
+                "west":   { "uv": [ 7, 0.1, 16, 0.4  ], "texture": "#main", "rotation":90 }
+            }
+        },
+        {
+            "from": [ -6, 23, 3 ],
+            "to": [ -2, 31.9, 13 ],
+            "faces": {
+                "up":   { "uv": [ 0, 0.1, 5.5, 0.4 ], "texture": "#main" },
+                "down":   { "uv": [ 0, 0.1, 5.5, 0.4  ], "texture": "#main" },
+                "north":   { "uv": [ 0, 0.1, 5.5, 0.4  ], "texture": "#main" },
+                "south":   { "uv": [ 0, 0.1, 5.5, 0.4  ], "texture": "#main" },
+                "east":   { "uv": [ 0, 0.5, 16, 16  ], "texture": "#main", "rotation":90 },
+                "west":   { "uv": [ 0, 0.5, 16, 16  ], "texture": "#main", "rotation":90 }
+            }
+        },
+        {
+            "from": [ 18, 23, 3 ],
+            "to": [ 22, 31.9, 13 ],
+            "faces": {
+                "up":   { "uv": [ 0, 0.1, 5.5, 0.4 ], "texture": "#main" },
+                "down":   { "uv": [ 0, 0.1, 5.5, 0.4  ], "texture": "#main" },
+                "north":   { "uv": [ 0, 0.1, 5.5, 0.4  ], "texture": "#main" },
+                "south":   { "uv": [ 0, 0.1, 5.5, 0.4  ], "texture": "#main" },
+                "east":   { "uv": [ 0, 0.5, 16, 16  ], "texture": "#main", "rotation":90 },
+                "west":   { "uv": [ 0, 0.5, 16, 16  ], "texture": "#main", "rotation":90 }
+            }
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "active=false,facing=north": { "model": "lootplusplus:spiral.spiral_furnace_unlit" },
+        "active=false,facing=south": { "model": "lootplusplus:spiral.spiral_furnace_unlit", "y": 180 },
+        "active=false,facing=west":  { "model": "lootplusplus:spiral.spiral_furnace_unlit", "y": 270 },
+        "active=false,facing=east":  { "model": "lootplusplus:spiral.spiral_furnace_unlit", "y": 90 },
+		"active=true,facing=north": { "model": "lootplusplus:spiral.spiral_furnace_lit" },
+        "active=true,facing=south": { "model": "lootplusplus:spiral.spiral_furnace_lit", "y": 180 },
+        "active=true,facing=west":  { "model": "lootplusplus:spiral.spiral_furnace_lit", "y": 270 },
+        "active=true,facing=east":  { "model": "lootplusplus:spiral.spiral_furnace_lit", "y": 90 }
+    }
+}

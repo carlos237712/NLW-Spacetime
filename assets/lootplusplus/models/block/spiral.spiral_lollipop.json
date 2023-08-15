@@ -1,0 +1,49 @@
+{
+    "textures": {
+        "texture": "lootplusplus:blocks/spiral.spiral_lollipop",
+		"particle": "lootplusplus:blocks/spiral.spiral_lollipop"
+    },
+	"elements": [
+        {   "from": [ 7, 0, 7 ],
+            "to": [ 9, 8, 9 ],
+            "faces": {
+                "down":  { "uv": [ 7, 14, 9, 16 ], "texture": "#texture", "cullface": "down" },
+                "north": { "uv": [ 7, 8, 9, 16 ], "texture": "#texture" },
+                "south": { "uv": [ 7, 8, 9, 16 ], "texture": "#texture" },
+                "west":  { "uv": [ 7, 8, 9, 16 ], "texture": "#texture" },
+                "east":  { "uv": [ 7, 8, 9, 16 ], "texture": "#texture" }
+            }
+        },
+		{   "from": [ 5, 8, 7 ],
+            "to": [ 11, 16, 9 ],
+            "faces": {
+                "down":  { "uv": [ 5, 5, 11, 7 ], "texture": "#texture" },
+                "up":    { "uv": [ 5, 0, 11, 2 ], "texture": "#texture", "cullface": "up" },
+                "north": { "uv": [ 5, 0, 11, 8 ], "texture": "#texture" },
+                "south": { "uv": [ 11, 0, 5, 8 ], "texture": "#texture" },
+                "west":  { "uv": [ 9, 0, 11, 7 ], "texture": "#texture" },
+                "east":  { "uv": [ 5, 0, 7, 7 ], "texture": "#texture" }
+            }
+        },
+		{   "from": [ 11, 9, 7 ],
+            "to": [ 12, 15, 9 ],
+            "faces": {
+                "down":  { "uv": [ 4, 5, 5, 7 ], "texture": "#texture" },
+                "up":    { "uv": [ 10, 0, 11, 2 ], "texture": "#texture" },
+                "north": { "uv": [ 4, 1, 5, 7 ], "texture": "#texture" },
+                "south": { "uv": [ 4, 1, 5, 7 ], "texture": "#texture" },
+                "east":  { "uv": [ 4, 1, 6, 6 ], "texture": "#texture" }
+            }
+        },
+		{   "from": [ 4, 9, 7 ],
+            "to": [ 5, 15, 9 ],
+            "faces": {
+                "down":  { "uv": [ 10, 5, 11, 7 ], "texture": "#texture" },
+                "up":    { "uv": [ 5, 0, 6, 2 ], "texture": "#texture" },
+                "north": { "uv": [ 11, 1, 12, 7 ], "texture": "#texture" },
+                "south": { "uv": [ 11, 1, 12, 7 ], "texture": "#texture" },
+                "west":  { "uv": [ 10, 1, 12, 6 ], "texture": "#texture" }
+            }
+        }
+    ]
+}

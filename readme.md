@@ -1,5 +1,5 @@
 <p aling= "center">
-<img src=".github/Capa.png" alt="Demonstração do Projeto" width="100%>/
+<img src=".github/Capa.png" alt="Demonstração do Projeto" width="100%" />
 </p>
 ## 🖥️ Projeto 
 Esse é um projeto Web Responsivo de uma cápsula do tempo para exibir memórias em umalinha do tempo.
